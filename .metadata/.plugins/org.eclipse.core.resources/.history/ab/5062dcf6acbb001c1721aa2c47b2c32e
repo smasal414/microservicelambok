@@ -1,0 +1,5 @@
+spring.application.name=conig-server1
+spring.cloud.config.uri = https://github.com/smasal414/microservice.git
+server.port=8888
+
+
